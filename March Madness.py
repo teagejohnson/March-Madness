@@ -307,41 +307,41 @@ CLASSIFICATION_COLUMNS_Y = [
 #####
 
 def get_team_game_logs(team_name, team_id, year):
-#     try:
-#         url_basic = f'https://www.sports-reference.com/cbb/schools/{team_id}/men/{year}-gamelogs.html'
-#         url_advanced = f'https://www.sports-reference.com/cbb/schools/{team_id}/men/{year}-gamelogs-advanced.html'
+    try:
+        url_basic = f'https://www.sports-reference.com/cbb/schools/{team_id}/men/{year}-gamelogs.html'
+        url_advanced = f'https://www.sports-reference.com/cbb/schools/{team_id}/men/{year}-gamelogs-advanced.html'
 
-#         team_game_logs_basic = pd.read_html(url_basic, header=1)[0][COLUMNS_BASIC.keys()]
-#         team_game_logs_advanced = pd.read_html(url_advanced, header=1)[0][COLUMNS_ADVANCED.keys()]
+        team_game_logs_basic = pd.read_html(url_basic, header=1)[0][COLUMNS_BASIC.keys()]
+        team_game_logs_advanced = pd.read_html(url_advanced, header=1)[0][COLUMNS_ADVANCED.keys()]
 
-#         team_game_logs_basic.rename(columns=COLUMNS_BASIC, inplace=True)
-#         team_game_logs_advanced.rename(columns=COLUMNS_ADVANCED, inplace=True)
+        team_game_logs_basic.rename(columns=COLUMNS_BASIC, inplace=True)
+        team_game_logs_advanced.rename(columns=COLUMNS_ADVANCED, inplace=True)
 
-#         team_game_logs = pd.concat([team_game_logs_basic, team_game_logs_advanced], axis=1)
+        team_game_logs = pd.concat([team_game_logs_basic, team_game_logs_advanced], axis=1)
 
-#         team_game_logs = team_game_logs[(team_game_logs['result'] == 'W') | (team_game_logs['result'] == 'L')]
+        team_game_logs = team_game_logs[(team_game_logs['result'] == 'W') | (team_game_logs['result'] == 'L')]
 
-#         team_game_logs['team'] = team_name
-#         team_game_logs['location'] = np.where(team_game_logs['location'] == '@', 'away', np.where(team_game_logs['location'] == 'N', 'neutral' , 'home'))
+        team_game_logs['team'] = team_name
+        team_game_logs['location'] = np.where(team_game_logs['location'] == '@', 'away', np.where(team_game_logs['location'] == 'N', 'neutral' , 'home'))
 
-#         team_game_logs = team_game_logs.astype({x: 'float64' for x in team_game_logs.columns if x not in ['team', 'location', 'opponent', 'type', 'result']})
+        team_game_logs = team_game_logs.astype({x: 'float64' for x in team_game_logs.columns if x not in ['team', 'location', 'opponent', 'type', 'result']})
 
-#         team_game_logs['total_foul_percentage'] = team_game_logs['fouls'] / (team_game_logs['fouls'] + team_game_logs['opponent_fouls'] + 1e-9)
+        team_game_logs['total_foul_percentage'] = team_game_logs['fouls'] / (team_game_logs['fouls'] + team_game_logs['opponent_fouls'] + 1e-9)
         
-#         team_game_logs['opponent_assist_percentage'] = team_game_logs['opponent_assists'] / (team_game_logs['opponent_field_goals_made'] + 1e-9)
-#         team_game_logs['opponent_block_percentage'] = team_game_logs['opponent_blocks'] / (team_game_logs['two_pointers_attempted'] + 1e-9)
-#         team_game_logs['opponent_offensive_rebound_percentage'] = team_game_logs['opponent_offensive_rebounds'] / (team_game_logs['opponent_offensive_rebounds'] + team_game_logs['defensive_rebounds'] + 1e-9)
-#         team_game_logs['opponent_total_rebound_percentage'] = 1 - team_game_logs['total_rebound_percentage']
-#         team_game_logs['opponent_total_foul_percentage'] = 1 - team_game_logs['total_foul_percentage']
-#         team_game_logs['opponent_three_point_attempt_rate'] = team_game_logs['opponent_three_pointers_attempted'] / (team_game_logs['opponent_field_goals_attempted'] + 1e-9)
-#         team_game_logs['opponent_free_throw_attempt_rate'] = team_game_logs['opponent_free_throws_attempted'] / (team_game_logs['opponent_field_goals_attempted'] + 1e-9)
+        team_game_logs['opponent_assist_percentage'] = team_game_logs['opponent_assists'] / (team_game_logs['opponent_field_goals_made'] + 1e-9)
+        team_game_logs['opponent_block_percentage'] = team_game_logs['opponent_blocks'] / (team_game_logs['two_pointers_attempted'] + 1e-9)
+        team_game_logs['opponent_offensive_rebound_percentage'] = team_game_logs['opponent_offensive_rebounds'] / (team_game_logs['opponent_offensive_rebounds'] + team_game_logs['defensive_rebounds'] + 1e-9)
+        team_game_logs['opponent_total_rebound_percentage'] = 1 - team_game_logs['total_rebound_percentage']
+        team_game_logs['opponent_total_foul_percentage'] = 1 - team_game_logs['total_foul_percentage']
+        team_game_logs['opponent_three_point_attempt_rate'] = team_game_logs['opponent_three_pointers_attempted'] / (team_game_logs['opponent_field_goals_attempted'] + 1e-9)
+        team_game_logs['opponent_free_throw_attempt_rate'] = team_game_logs['opponent_free_throws_attempted'] / (team_game_logs['opponent_field_goals_attempted'] + 1e-9)
 
-#         team_game_logs = team_game_logs[COLUMNS]
+        team_game_logs = team_game_logs[COLUMNS]
 
-#     except:
-#         team_game_logs = pd.DataFrame()
+    except:
+        team_game_logs = pd.DataFrame()
 
-#     return team_game_logs
+    return team_game_logs
 
 
 def get_regular_season_data(year=None):
