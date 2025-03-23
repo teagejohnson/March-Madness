@@ -1,0 +1,1601 @@
+year,team,seed,region
+2025,Duke,1,East
+2025,Mount St. Mary's,16,East
+2025,Mississippi State,8,East
+2025,Baylor,9,East
+2025,Oregon,5,East
+2025,Liberty,12,East
+2025,Arizona,4,East
+2025,Akron,13,East
+2025,BYU,6,East
+2025,VCU,11,East
+2025,Wisconsin,3,East
+2025,Montana,14,East
+2025,Saint Mary's,7,East
+2025,Vanderbilt,10,East
+2025,Alabama,2,East
+2025,Robert Morris,15,East
+2025,Houston,1,Midwest
+2025,SIU-Edwardsville,16,Midwest
+2025,Gonzaga,8,Midwest
+2025,Georgia,9,Midwest
+2025,Clemson,5,Midwest
+2025,McNeese State,12,Midwest
+2025,Purdue,4,Midwest
+2025,High Point,13,Midwest
+2025,Illinois,6,Midwest
+2025,Xavier,11,Midwest
+2025,Kentucky,3,Midwest
+2025,Troy,14,Midwest
+2025,UCLA,7,Midwest
+2025,Utah State,10,Midwest
+2025,Tennessee,2,Midwest
+2025,Wofford,15,Midwest
+2025,Auburn,1,South
+2025,Alabama State,16,South
+2025,Louisville,8,South
+2025,Creighton,9,South
+2025,Michigan,5,South
+2025,UC-San Diego,12,South
+2025,Texas A&M,4,South
+2025,Yale,13,South
+2025,Ole Miss,6,South
+2025,UNC,11,South
+2025,Iowa State,3,South
+2025,Lipscomb,14,South
+2025,Marquette,7,South
+2025,New Mexico,10,South
+2025,Michigan State,2,South
+2025,Bryant,15,South
+2025,Florida,1,West
+2025,Norfolk State,16,West
+2025,UConn,8,West
+2025,Oklahoma,9,West
+2025,Memphis,5,West
+2025,Colorado State,12,West
+2025,Maryland,4,West
+2025,Grand Canyon,13,West
+2025,Missouri,6,West
+2025,Drake,11,West
+2025,Texas Tech,3,West
+2025,UNC Wilmington,14,West
+2025,Kansas,7,West
+2025,Arkansas,10,West
+2025,St. John's (NY),2,West
+2025,Omaha,15,West
+2024,UConn,1,East
+2024,Stetson,16,East
+2024,Florida Atlantic,8,East
+2024,Northwestern,9,East
+2024,San Diego State,5,East
+2024,UAB,12,East
+2024,Auburn,4,East
+2024,Yale,13,East
+2024,BYU,6,East
+2024,Duquesne,11,East
+2024,Illinois,3,East
+2024,Morehead State,14,East
+2024,Washington State,7,East
+2024,Drake,10,East
+2024,Iowa State,2,East
+2024,South Dakota State,15,East
+2024,Purdue,1,Midwest
+2024,Grambling,16,Midwest
+2024,Utah State,8,Midwest
+2024,TCU,9,Midwest
+2024,Gonzaga,5,Midwest
+2024,McNeese State,12,Midwest
+2024,Kansas,4,Midwest
+2024,Samford,13,Midwest
+2024,South Carolina,6,Midwest
+2024,Oregon,11,Midwest
+2024,Creighton,3,Midwest
+2024,Akron,14,Midwest
+2024,Texas,7,Midwest
+2024,Colorado State,10,Midwest
+2024,Tennessee,2,Midwest
+2024,St. Peter's,15,Midwest
+2024,Houston,1,South
+2024,Longwood,16,South
+2024,Nebraska,8,South
+2024,Texas A&M,9,South
+2024,Wisconsin,5,South
+2024,James Madison,12,South
+2024,Duke,4,South
+2024,Vermont,13,South
+2024,Texas Tech,6,South
+2024,NC State,11,South
+2024,Kentucky,3,South
+2024,Oakland,14,South
+2024,Florida,7,South
+2024,Colorado,10,South
+2024,Marquette,2,South
+2024,Western Kentucky,15,South
+2024,UNC,1,West
+2024,Wagner,16,West
+2024,Mississippi State,8,West
+2024,Michigan State,9,West
+2024,Saint Mary's,5,West
+2024,Grand Canyon,12,West
+2024,Alabama,4,West
+2024,College of Charleston,13,West
+2024,Clemson,6,West
+2024,New Mexico,11,West
+2024,Baylor,3,West
+2024,Colgate,14,West
+2024,Dayton,7,West
+2024,Nevada,10,West
+2024,Arizona,2,West
+2024,Long Beach State,15,West
+2023,Purdue,1,East
+2023,FDU,16,East
+2023,Memphis,8,East
+2023,Florida Atlantic,9,East
+2023,Duke,5,East
+2023,Oral Roberts,12,East
+2023,Tennessee,4,East
+2023,Louisiana,13,East
+2023,Kentucky,6,East
+2023,Providence,11,East
+2023,Kansas State,3,East
+2023,Montana State,14,East
+2023,Michigan State,7,East
+2023,USC,10,East
+2023,Marquette,2,East
+2023,Vermont,15,East
+2023,Houston,1,Midwest
+2023,Northern Kentucky,16,Midwest
+2023,Iowa,8,Midwest
+2023,Auburn,9,Midwest
+2023,Miami (FL),5,Midwest
+2023,Drake,12,Midwest
+2023,Indiana,4,Midwest
+2023,Kent State,13,Midwest
+2023,Iowa State,6,Midwest
+2023,Pitt,11,Midwest
+2023,Xavier,3,Midwest
+2023,Kennesaw State,14,Midwest
+2023,Texas A&M,7,Midwest
+2023,Penn State,10,Midwest
+2023,Texas,2,Midwest
+2023,Colgate,15,Midwest
+2023,Alabama,1,South
+2023,Texas A&M-Corpus Christi,16,South
+2023,Maryland,8,South
+2023,West Virginia,9,South
+2023,San Diego State,5,South
+2023,College of Charleston,12,South
+2023,Virginia,4,South
+2023,Furman,13,South
+2023,Creighton,6,South
+2023,NC State,11,South
+2023,Baylor,3,South
+2023,UCSB,14,South
+2023,Missouri,7,South
+2023,Utah State,10,South
+2023,Arizona,2,South
+2023,Princeton,15,South
+2023,Kansas,1,West
+2023,Howard,16,West
+2023,Arkansas,8,West
+2023,Illinois,9,West
+2023,Saint Mary's,5,West
+2023,VCU,12,West
+2023,UConn,4,West
+2023,Iona,13,West
+2023,TCU,6,West
+2023,Arizona State,11,West
+2023,Gonzaga,3,West
+2023,Grand Canyon,14,West
+2023,Northwestern,7,West
+2023,Boise State,10,West
+2023,UCLA,2,West
+2023,UNC Asheville,15,West
+2022,Baylor,1,East
+2022,Norfolk State,16,East
+2022,UNC,8,East
+2022,Marquette,9,East
+2022,Saint Mary's,5,East
+2022,Indiana,12,East
+2022,UCLA,4,East
+2022,Akron,13,East
+2022,Texas,6,East
+2022,Virginia Tech,11,East
+2022,Purdue,3,East
+2022,Yale,14,East
+2022,Murray State,7,East
+2022,San Francisco,10,East
+2022,Kentucky,2,East
+2022,St. Peter's,15,East
+2022,Kansas,1,Midwest
+2022,Texas Southern,16,Midwest
+2022,San Diego State,8,Midwest
+2022,Creighton,9,Midwest
+2022,Iowa,5,Midwest
+2022,Richmond,12,Midwest
+2022,Providence,4,Midwest
+2022,South Dakota State,13,Midwest
+2022,LSU,6,Midwest
+2022,Iowa State,11,Midwest
+2022,Wisconsin,3,Midwest
+2022,Colgate,14,Midwest
+2022,USC,7,Midwest
+2022,Miami (FL),10,Midwest
+2022,Auburn,2,Midwest
+2022,Jacksonville State,15,Midwest
+2022,Arizona,1,South
+2022,Wright State,16,South
+2022,Seton Hall,8,South
+2022,TCU,9,South
+2022,Houston,5,South
+2022,UAB,12,South
+2022,Illinois,4,South
+2022,Chattanooga,13,South
+2022,Colorado State,6,South
+2022,Michigan,11,South
+2022,Tennessee,3,South
+2022,Longwood,14,South
+2022,Ohio State,7,South
+2022,Loyola (IL),10,South
+2022,Villanova,2,South
+2022,Delaware,15,South
+2022,Gonzaga,1,West
+2022,Georgia State,16,West
+2022,Boise State,8,West
+2022,Memphis,9,West
+2022,UConn,5,West
+2022,New Mexico State,12,West
+2022,Arkansas,4,West
+2022,Vermont,13,West
+2022,Alabama,6,West
+2022,Notre Dame,11,West
+2022,Texas Tech,3,West
+2022,Montana State,14,West
+2022,Michigan State,7,West
+2022,Davidson,10,West
+2022,Duke,2,West
+2022,Cal State Fullerton,15,West
+2021,Michigan,1,East
+2021,Texas Southern,16,East
+2021,LSU,8,East
+2021,St. Bonaventure,9,East
+2021,Colorado,5,East
+2021,Georgetown,12,East
+2021,Florida State,4,East
+2021,UNC Greensboro,13,East
+2021,BYU,6,East
+2021,UCLA,11,East
+2021,Texas,3,East
+2021,Abilene Christian,14,East
+2021,UConn,7,East
+2021,Maryland,10,East
+2021,Alabama,2,East
+2021,Iona,15,East
+2021,Illinois,1,Midwest
+2021,Drexel,16,Midwest
+2021,Loyola (IL),8,Midwest
+2021,Georgia Tech,9,Midwest
+2021,Tennessee,5,Midwest
+2021,Oregon State,12,Midwest
+2021,Oklahoma State,4,Midwest
+2021,Liberty,13,Midwest
+2021,San Diego State,6,Midwest
+2021,Syracuse,11,Midwest
+2021,West Virginia,3,Midwest
+2021,Morehead State,14,Midwest
+2021,Clemson,7,Midwest
+2021,Rutgers,10,Midwest
+2021,Houston,2,Midwest
+2021,Cleveland State,15,Midwest
+2021,Baylor,1,South
+2021,Hartford,16,South
+2021,UNC,8,South
+2021,Wisconsin,9,South
+2021,Villanova,5,South
+2021,Winthrop,12,South
+2021,Purdue,4,South
+2021,North Texas,13,South
+2021,Texas Tech,6,South
+2021,Utah State,11,South
+2021,Arkansas,3,South
+2021,Colgate,14,South
+2021,Florida,7,South
+2021,Virginia Tech,10,South
+2021,Ohio State,2,South
+2021,Oral Roberts,15,South
+2021,Gonzaga,1,West
+2021,Norfolk State,16,West
+2021,Oklahoma,8,West
+2021,Missouri,9,West
+2021,Creighton,5,West
+2021,UCSB,12,West
+2021,Virginia,4,West
+2021,Ohio,13,West
+2021,USC,6,West
+2021,Drake,11,West
+2021,Kansas,3,West
+2021,Eastern Washington,14,West
+2021,Oregon,7,West
+2021,VCU,10,West
+2021,Iowa,2,West
+2021,Grand Canyon,15,West
+2019,Duke,1,East
+2019,North Dakota State,16,East
+2019,VCU,8,East
+2019,UCF,9,East
+2019,Mississippi State,5,East
+2019,Liberty,12,East
+2019,Virginia Tech,4,East
+2019,Saint Louis,13,East
+2019,Maryland,6,East
+2019,Belmont,11,East
+2019,LSU,3,East
+2019,Yale,14,East
+2019,Louisville,7,East
+2019,Minnesota,10,East
+2019,Michigan State,2,East
+2019,Bradley,15,East
+2019,UNC,1,Midwest
+2019,Iona,16,Midwest
+2019,Utah State,8,Midwest
+2019,Washington,9,Midwest
+2019,Auburn,5,Midwest
+2019,New Mexico State,12,Midwest
+2019,Kansas,4,Midwest
+2019,Northeastern,13,Midwest
+2019,Iowa State,6,Midwest
+2019,Ohio State,11,Midwest
+2019,Houston,3,Midwest
+2019,Georgia State,14,Midwest
+2019,Wofford,7,Midwest
+2019,Seton Hall,10,Midwest
+2019,Kentucky,2,Midwest
+2019,Abilene Christian,15,Midwest
+2019,Virginia,1,South
+2019,Gardner-Webb,16,South
+2019,Ole Miss,8,South
+2019,Oklahoma,9,South
+2019,Wisconsin,5,South
+2019,Oregon,12,South
+2019,Kansas State,4,South
+2019,UC-Irvine,13,South
+2019,Villanova,6,South
+2019,Saint Mary's,11,South
+2019,Purdue,3,South
+2019,Old Dominion,14,South
+2019,Cincinnati,7,South
+2019,Iowa,10,South
+2019,Tennessee,2,South
+2019,Colgate,15,South
+2019,Gonzaga,1,West
+2019,FDU,16,West
+2019,Syracuse,8,West
+2019,Baylor,9,West
+2019,Marquette,5,West
+2019,Murray State,12,West
+2019,Florida State,4,West
+2019,Vermont,13,West
+2019,Buffalo,6,West
+2019,Arizona State,11,West
+2019,Texas Tech,3,West
+2019,Northern Kentucky,14,West
+2019,Nevada,7,West
+2019,Florida,10,West
+2019,Michigan,2,West
+2019,Montana,15,West
+2018,Villanova,1,East
+2018,Radford,16,East
+2018,Virginia Tech,8,East
+2018,Alabama,9,East
+2018,West Virginia,5,East
+2018,Murray State,12,East
+2018,Wichita State,4,East
+2018,Marshall,13,East
+2018,Florida,6,East
+2018,St. Bonaventure,11,East
+2018,Texas Tech,3,East
+2018,Stephen F. Austin,14,East
+2018,Arkansas,7,East
+2018,Butler,10,East
+2018,Purdue,2,East
+2018,Cal State Fullerton,15,East
+2018,Kansas,1,Midwest
+2018,Penn,16,Midwest
+2018,Seton Hall,8,Midwest
+2018,NC State,9,Midwest
+2018,Clemson,5,Midwest
+2018,New Mexico State,12,Midwest
+2018,Auburn,4,Midwest
+2018,College of Charleston,13,Midwest
+2018,TCU,6,Midwest
+2018,Syracuse,11,Midwest
+2018,Michigan State,3,Midwest
+2018,Bucknell,14,Midwest
+2018,Rhode Island,7,Midwest
+2018,Oklahoma,10,Midwest
+2018,Duke,2,Midwest
+2018,Iona,15,Midwest
+2018,Virginia,1,South
+2018,UMBC,16,South
+2018,Creighton,8,South
+2018,Kansas State,9,South
+2018,Kentucky,5,South
+2018,Davidson,12,South
+2018,Arizona,4,South
+2018,Buffalo,13,South
+2018,Miami (FL),6,South
+2018,Loyola (IL),11,South
+2018,Tennessee,3,South
+2018,Wright State,14,South
+2018,Nevada,7,South
+2018,Texas,10,South
+2018,Cincinnati,2,South
+2018,Georgia State,15,South
+2018,Xavier,1,West
+2018,Texas Southern,16,West
+2018,Missouri,8,West
+2018,Florida State,9,West
+2018,Ohio State,5,West
+2018,South Dakota State,12,West
+2018,Gonzaga,4,West
+2018,UNC Greensboro,13,West
+2018,Houston,6,West
+2018,San Diego State,11,West
+2018,Michigan,3,West
+2018,Montana,14,West
+2018,Texas A&M,7,West
+2018,Providence,10,West
+2018,UNC,2,West
+2018,Lipscomb,15,West
+2017,Villanova,1,East
+2017,Mount St. Mary's,16,East
+2017,Wisconsin,8,East
+2017,Virginia Tech,9,East
+2017,Virginia,5,East
+2017,UNC Wilmington,12,East
+2017,Florida,4,East
+2017,ETSU,13,East
+2017,SMU,6,East
+2017,USC,11,East
+2017,Baylor,3,East
+2017,New Mexico State,14,East
+2017,South Carolina,7,East
+2017,Marquette,10,East
+2017,Duke,2,East
+2017,Troy,15,East
+2017,Kansas,1,Midwest
+2017,UC-Davis,16,Midwest
+2017,Miami (FL),8,Midwest
+2017,Michigan State,9,Midwest
+2017,Iowa State,5,Midwest
+2017,Nevada,12,Midwest
+2017,Purdue,4,Midwest
+2017,Vermont,13,Midwest
+2017,Creighton,6,Midwest
+2017,Rhode Island,11,Midwest
+2017,Oregon,3,Midwest
+2017,Iona,14,Midwest
+2017,Michigan,7,Midwest
+2017,Oklahoma State,10,Midwest
+2017,Louisville,2,Midwest
+2017,Jacksonville State,15,Midwest
+2017,UNC,1,South
+2017,Texas Southern,16,South
+2017,Arkansas,8,South
+2017,Seton Hall,9,South
+2017,Minnesota,5,South
+2017,Middle Tennessee,12,South
+2017,Butler,4,South
+2017,Winthrop,13,South
+2017,Cincinnati,6,South
+2017,Kansas State,11,South
+2017,UCLA,3,South
+2017,Kent State,14,South
+2017,Dayton,7,South
+2017,Wichita State,10,South
+2017,Kentucky,2,South
+2017,Northern Kentucky,15,South
+2017,Gonzaga,1,West
+2017,South Dakota State,16,West
+2017,Northwestern,8,West
+2017,Vanderbilt,9,West
+2017,Notre Dame,5,West
+2017,Princeton,12,West
+2017,West Virginia,4,West
+2017,Bucknell,13,West
+2017,Maryland,6,West
+2017,Xavier,11,West
+2017,Florida State,3,West
+2017,Florida Gulf Coast,14,West
+2017,Saint Mary's,7,West
+2017,VCU,10,West
+2017,Arizona,2,West
+2017,North Dakota,15,West
+2016,UNC,1,East
+2016,Florida Gulf Coast,16,East
+2016,USC,8,East
+2016,Providence,9,East
+2016,Indiana,5,East
+2016,Chattanooga,12,East
+2016,Kentucky,4,East
+2016,Stony Brook,13,East
+2016,Notre Dame,6,East
+2016,Michigan,11,East
+2016,West Virginia,3,East
+2016,Stephen F. Austin,14,East
+2016,Wisconsin,7,East
+2016,Pitt,10,East
+2016,Xavier,2,East
+2016,Weber State,15,East
+2016,Virginia,1,Midwest
+2016,Hampton,16,Midwest
+2016,Texas Tech,8,Midwest
+2016,Butler,9,Midwest
+2016,Purdue,5,Midwest
+2016,Little Rock,12,Midwest
+2016,Iowa State,4,Midwest
+2016,Iona,13,Midwest
+2016,Seton Hall,6,Midwest
+2016,Gonzaga,11,Midwest
+2016,Utah,3,Midwest
+2016,Fresno State,14,Midwest
+2016,Dayton,7,Midwest
+2016,Syracuse,10,Midwest
+2016,Michigan State,2,Midwest
+2016,Middle Tennessee,15,Midwest
+2016,Kansas,1,South
+2016,Austin Peay,16,South
+2016,Colorado,8,South
+2016,UConn,9,South
+2016,Maryland,5,South
+2016,South Dakota State,12,South
+2016,California,4,South
+2016,Hawaii,13,South
+2016,Arizona,6,South
+2016,Wichita State,11,South
+2016,Miami (FL),3,South
+2016,Buffalo,14,South
+2016,Iowa,7,South
+2016,Temple,10,South
+2016,Villanova,2,South
+2016,UNC Asheville,15,South
+2016,Oregon,1,West
+2016,Holy Cross,16,West
+2016,St. Joseph's,8,West
+2016,Cincinnati,9,West
+2016,Baylor,5,West
+2016,Yale,12,West
+2016,Duke,4,West
+2016,UNC Wilmington,13,West
+2016,Texas,6,West
+2016,Northern Iowa,11,West
+2016,Texas A&M,3,West
+2016,Green Bay,14,West
+2016,Oregon State,7,West
+2016,VCU,10,West
+2016,Oklahoma,2,West
+2016,Cal State Bakersfield,15,West
+2015,Villanova,1,East
+2015,Lafayette,16,East
+2015,NC State,8,East
+2015,LSU,9,East
+2015,Northern Iowa,5,East
+2015,Wyoming,12,East
+2015,Louisville,4,East
+2015,UC-Irvine,13,East
+2015,Providence,6,East
+2015,Dayton,11,East
+2015,Oklahoma,3,East
+2015,Albany (NY),14,East
+2015,Michigan State,7,East
+2015,Georgia,10,East
+2015,Virginia,2,East
+2015,Belmont,15,East
+2015,Kentucky,1,Midwest
+2015,Hampton,16,Midwest
+2015,Cincinnati,8,Midwest
+2015,Purdue,9,Midwest
+2015,West Virginia,5,Midwest
+2015,Buffalo,12,Midwest
+2015,Maryland,4,Midwest
+2015,Valparaiso,13,Midwest
+2015,Butler,6,Midwest
+2015,Texas,11,Midwest
+2015,Notre Dame,3,Midwest
+2015,Northeastern,14,Midwest
+2015,Wichita State,7,Midwest
+2015,Indiana,10,Midwest
+2015,Kansas,2,Midwest
+2015,New Mexico State,15,Midwest
+2015,Duke,1,South
+2015,Robert Morris,16,South
+2015,San Diego State,8,South
+2015,St. John's (NY),9,South
+2015,Utah,5,South
+2015,Stephen F. Austin,12,South
+2015,Georgetown,4,South
+2015,Eastern Washington,13,South
+2015,SMU,6,South
+2015,UCLA,11,South
+2015,Iowa State,3,South
+2015,UAB,14,South
+2015,Iowa,7,South
+2015,Davidson,10,South
+2015,Gonzaga,2,South
+2015,North Dakota State,15,South
+2015,Wisconsin,1,West
+2015,Coastal Carolina,16,West
+2015,Oregon,8,West
+2015,Oklahoma State,9,West
+2015,Arkansas,5,West
+2015,Wofford,12,West
+2015,UNC,4,West
+2015,Harvard,13,West
+2015,Xavier,6,West
+2015,Ole Miss,11,West
+2015,Baylor,3,West
+2015,Georgia State,14,West
+2015,VCU,7,West
+2015,Ohio State,10,West
+2015,Arizona,2,West
+2015,Texas Southern,15,West
+2014,Virginia,1,East
+2014,Coastal Carolina,16,East
+2014,Memphis,8,East
+2014,George Washington,9,East
+2014,Cincinnati,5,East
+2014,Harvard,12,East
+2014,Michigan State,4,East
+2014,Delaware,13,East
+2014,UNC,6,East
+2014,Providence,11,East
+2014,Iowa State,3,East
+2014,North Carolina Central,14,East
+2014,UConn,7,East
+2014,St. Joseph's,10,East
+2014,Villanova,2,East
+2014,Milwaukee,15,East
+2014,Wichita State,1,Midwest
+2014,Cal Poly,16,Midwest
+2014,Kentucky,8,Midwest
+2014,Kansas State,9,Midwest
+2014,Saint Louis,5,Midwest
+2014,NC State,12,Midwest
+2014,Louisville,4,Midwest
+2014,Manhattan,13,Midwest
+2014,UMass,6,Midwest
+2014,Tennessee,11,Midwest
+2014,Duke,3,Midwest
+2014,Mercer,14,Midwest
+2014,Texas,7,Midwest
+2014,Arizona State,10,Midwest
+2014,Michigan,2,Midwest
+2014,Wofford,15,Midwest
+2014,Florida,1,South
+2014,Albany (NY),16,South
+2014,Colorado,8,South
+2014,Pitt,9,South
+2014,VCU,5,South
+2014,Stephen F. Austin,12,South
+2014,UCLA,4,South
+2014,Tulsa,13,South
+2014,Ohio State,6,South
+2014,Dayton,11,South
+2014,Syracuse,3,South
+2014,Western Michigan,14,South
+2014,New Mexico,7,South
+2014,Stanford,10,South
+2014,Kansas,2,South
+2014,Eastern Kentucky,15,South
+2014,Arizona,1,West
+2014,Weber State,16,West
+2014,Gonzaga,8,West
+2014,Oklahoma State,9,West
+2014,Oklahoma,5,West
+2014,North Dakota State,12,West
+2014,San Diego State,4,West
+2014,New Mexico State,13,West
+2014,Baylor,6,West
+2014,Nebraska,11,West
+2014,Creighton,3,West
+2014,Louisiana,14,West
+2014,Oregon,7,West
+2014,BYU,10,West
+2014,Wisconsin,2,West
+2014,American,15,West
+2013,Indiana,1,East
+2013,James Madison,16,East
+2013,NC State,8,East
+2013,Temple,9,East
+2013,UNLV,5,East
+2013,California,12,East
+2013,Syracuse,4,East
+2013,Montana,13,East
+2013,Butler,6,East
+2013,Bucknell,11,East
+2013,Marquette,3,East
+2013,Davidson,14,East
+2013,Illinois,7,East
+2013,Colorado,10,East
+2013,Miami (FL),2,East
+2013,Pacific,15,East
+2013,Louisville,1,Midwest
+2013,North Carolina A&T,16,Midwest
+2013,Colorado State,8,Midwest
+2013,Missouri,9,Midwest
+2013,Oklahoma State,5,Midwest
+2013,Oregon,12,Midwest
+2013,Saint Louis,4,Midwest
+2013,New Mexico State,13,Midwest
+2013,Memphis,6,Midwest
+2013,Saint Mary's,11,Midwest
+2013,Michigan State,3,Midwest
+2013,Valparaiso,14,Midwest
+2013,Creighton,7,Midwest
+2013,Cincinnati,10,Midwest
+2013,Duke,2,Midwest
+2013,Albany (NY),15,Midwest
+2013,Kansas,1,South
+2013,Western Kentucky,16,South
+2013,UNC,8,South
+2013,Villanova,9,South
+2013,VCU,5,South
+2013,Akron,12,South
+2013,Michigan,4,South
+2013,South Dakota State,13,South
+2013,UCLA,6,South
+2013,Minnesota,11,South
+2013,Florida,3,South
+2013,Northwestern State,14,South
+2013,San Diego State,7,South
+2013,Oklahoma,10,South
+2013,Georgetown,2,South
+2013,Florida Gulf Coast,15,South
+2013,Gonzaga,1,West
+2013,Southern,16,West
+2013,Pitt,8,West
+2013,Wichita State,9,West
+2013,Wisconsin,5,West
+2013,Ole Miss,12,West
+2013,Kansas State,4,West
+2013,La Salle,13,West
+2013,Arizona,6,West
+2013,Belmont,11,West
+2013,New Mexico,3,West
+2013,Harvard,14,West
+2013,Notre Dame,7,West
+2013,Iowa State,10,West
+2013,Ohio State,2,West
+2013,Iona,15,West
+2012,Syracuse,1,East
+2012,UNC Asheville,16,East
+2012,Kansas State,8,East
+2012,Southern Miss,9,East
+2012,Vanderbilt,5,East
+2012,Harvard,12,East
+2012,Wisconsin,4,East
+2012,Montana,13,East
+2012,Cincinnati,6,East
+2012,Texas,11,East
+2012,Florida State,3,East
+2012,St. Bonaventure,14,East
+2012,Gonzaga,7,East
+2012,West Virginia,10,East
+2012,Ohio State,2,East
+2012,Loyola (MD),15,East
+2012,UNC,1,Midwest
+2012,Vermont,16,Midwest
+2012,Creighton,8,Midwest
+2012,Alabama,9,Midwest
+2012,Temple,5,Midwest
+2012,South Florida,12,Midwest
+2012,Michigan,4,Midwest
+2012,Ohio,13,Midwest
+2012,San Diego State,6,Midwest
+2012,NC State,11,Midwest
+2012,Georgetown,3,Midwest
+2012,Belmont,14,Midwest
+2012,Saint Mary's,7,Midwest
+2012,Purdue,10,Midwest
+2012,Kansas,2,Midwest
+2012,Detroit Mercy,15,Midwest
+2012,Kentucky,1,South
+2012,Western Kentucky,16,South
+2012,Iowa State,8,South
+2012,UConn,9,South
+2012,Wichita State,5,South
+2012,VCU,12,South
+2012,Indiana,4,South
+2012,New Mexico State,13,South
+2012,UNLV,6,South
+2012,Colorado,11,South
+2012,Baylor,3,South
+2012,South Dakota State,14,South
+2012,Notre Dame,7,South
+2012,Xavier,10,South
+2012,Duke,2,South
+2012,Lehigh,15,South
+2012,Michigan State,1,West
+2012,LIU,16,West
+2012,Memphis,8,West
+2012,Saint Louis,9,West
+2012,New Mexico,5,West
+2012,Long Beach State,12,West
+2012,Louisville,4,West
+2012,Davidson,13,West
+2012,Murray State,6,West
+2012,Colorado State,11,West
+2012,Marquette,3,West
+2012,BYU,14,West
+2012,Florida,7,West
+2012,Virginia,10,West
+2012,Missouri,2,West
+2012,Norfolk State,15,West
+2011,Ohio State,1,East
+2011,UTSA,16,East
+2011,George Mason,8,East
+2011,Villanova,9,East
+2011,West Virginia,5,East
+2011,Clemson,12,East
+2011,Kentucky,4,East
+2011,Princeton,13,East
+2011,Xavier,6,East
+2011,Marquette,11,East
+2011,Syracuse,3,East
+2011,Indiana State,14,East
+2011,Washington,7,East
+2011,Georgia,10,East
+2011,UNC,2,East
+2011,LIU,15,East
+2011,Pitt,1,Midwest
+2011,UNC Asheville,16,Midwest
+2011,Butler,8,Midwest
+2011,Old Dominion,9,Midwest
+2011,Kansas State,5,Midwest
+2011,Utah State,12,Midwest
+2011,Wisconsin,4,Midwest
+2011,Belmont,13,Midwest
+2011,St. John's (NY),6,Midwest
+2011,Gonzaga,11,Midwest
+2011,BYU,3,Midwest
+2011,Wofford,14,Midwest
+2011,UCLA,7,Midwest
+2011,Michigan State,10,Midwest
+2011,Florida,2,Midwest
+2011,UCSB,15,Midwest
+2011,Kansas,1,South
+2011,Boston University,16,South
+2011,UNLV,8,South
+2011,Illinois,9,South
+2011,Vanderbilt,5,South
+2011,Richmond,12,South
+2011,Louisville,4,South
+2011,Morehead State,13,South
+2011,Georgetown,6,South
+2011,VCU,11,South
+2011,Purdue,3,South
+2011,St. Peter's,14,South
+2011,Texas A&M,7,South
+2011,Florida State,10,South
+2011,Notre Dame,2,South
+2011,Akron,15,South
+2011,Duke,1,West
+2011,Hampton,16,West
+2011,Michigan,8,West
+2011,Tennessee,9,West
+2011,Arizona,5,West
+2011,Memphis,12,West
+2011,Texas,4,West
+2011,Oakland,13,West
+2011,Cincinnati,6,West
+2011,Missouri,11,West
+2011,UConn,3,West
+2011,Bucknell,14,West
+2011,Temple,7,West
+2011,Penn State,10,West
+2011,San Diego State,2,West
+2011,Northern Colorado,15,West
+2010,Kentucky,1,East
+2010,ETSU,16,East
+2010,Texas,8,East
+2010,Wake Forest,9,East
+2010,Temple,5,East
+2010,Cornell,12,East
+2010,Wisconsin,4,East
+2010,Wofford,13,East
+2010,Marquette,6,East
+2010,Washington,11,East
+2010,New Mexico,3,East
+2010,Montana,14,East
+2010,Clemson,7,East
+2010,Missouri,10,East
+2010,West Virginia,2,East
+2010,Morgan State,15,East
+2010,Kansas,1,Midwest
+2010,Lehigh,16,Midwest
+2010,UNLV,8,Midwest
+2010,Northern Iowa,9,Midwest
+2010,Michigan State,5,Midwest
+2010,New Mexico State,12,Midwest
+2010,Maryland,4,Midwest
+2010,Houston,13,Midwest
+2010,Tennessee,6,Midwest
+2010,San Diego State,11,Midwest
+2010,Georgetown,3,Midwest
+2010,Ohio,14,Midwest
+2010,Oklahoma State,7,Midwest
+2010,Georgia Tech,10,Midwest
+2010,Ohio State,2,Midwest
+2010,UCSB,15,Midwest
+2010,Duke,1,South
+2010,Arkansas-Pine Bluff,16,South
+2010,California,8,South
+2010,Louisville,9,South
+2010,Texas A&M,5,South
+2010,Utah State,12,South
+2010,Purdue,4,South
+2010,Siena,13,South
+2010,Notre Dame,6,South
+2010,Old Dominion,11,South
+2010,Baylor,3,South
+2010,Sam Houston,14,South
+2010,Richmond,7,South
+2010,Saint Mary's,10,South
+2010,Villanova,2,South
+2010,Robert Morris,15,South
+2010,Syracuse,1,West
+2010,Vermont,16,West
+2010,Gonzaga,8,West
+2010,Florida State,9,West
+2010,Butler,5,West
+2010,UTEP,12,West
+2010,Vanderbilt,4,West
+2010,Murray State,13,West
+2010,Xavier,6,West
+2010,Minnesota,11,West
+2010,Pitt,3,West
+2010,Oakland,14,West
+2010,BYU,7,West
+2010,Florida,10,West
+2010,Kansas State,2,West
+2010,North Texas,15,West
+2009,,1,East
+2009,,16,East
+2009,,8,East
+2009,,9,East
+2009,,5,East
+2009,,12,East
+2009,,4,East
+2009,,13,East
+2009,,6,East
+2009,,11,East
+2009,,3,East
+2009,,14,East
+2009,,7,East
+2009,,10,East
+2009,,2,East
+2009,,15,East
+2009,,1,Midwest
+2009,,16,Midwest
+2009,,8,Midwest
+2009,,9,Midwest
+2009,,5,Midwest
+2009,,12,Midwest
+2009,,4,Midwest
+2009,,13,Midwest
+2009,,6,Midwest
+2009,,11,Midwest
+2009,,3,Midwest
+2009,,14,Midwest
+2009,,7,Midwest
+2009,,10,Midwest
+2009,,2,Midwest
+2009,,15,Midwest
+2009,,1,South
+2009,,16,South
+2009,,8,South
+2009,,9,South
+2009,,5,South
+2009,,12,South
+2009,,4,South
+2009,,13,South
+2009,,6,South
+2009,,11,South
+2009,,3,South
+2009,,14,South
+2009,,7,South
+2009,,10,South
+2009,,2,South
+2009,,15,South
+2009,,1,West
+2009,,16,West
+2009,,8,West
+2009,,9,West
+2009,,5,West
+2009,,12,West
+2009,,4,West
+2009,,13,West
+2009,,6,West
+2009,,11,West
+2009,,3,West
+2009,,14,West
+2009,,7,West
+2009,,10,West
+2009,,2,West
+2009,,15,West
+2008,,1,East
+2008,,16,East
+2008,,8,East
+2008,,9,East
+2008,,5,East
+2008,,12,East
+2008,,4,East
+2008,,13,East
+2008,,6,East
+2008,,11,East
+2008,,3,East
+2008,,14,East
+2008,,7,East
+2008,,10,East
+2008,,2,East
+2008,,15,East
+2008,,1,Midwest
+2008,,16,Midwest
+2008,,8,Midwest
+2008,,9,Midwest
+2008,,5,Midwest
+2008,,12,Midwest
+2008,,4,Midwest
+2008,,13,Midwest
+2008,,6,Midwest
+2008,,11,Midwest
+2008,,3,Midwest
+2008,,14,Midwest
+2008,,7,Midwest
+2008,,10,Midwest
+2008,,2,Midwest
+2008,,15,Midwest
+2008,,1,South
+2008,,16,South
+2008,,8,South
+2008,,9,South
+2008,,5,South
+2008,,12,South
+2008,,4,South
+2008,,13,South
+2008,,6,South
+2008,,11,South
+2008,,3,South
+2008,,14,South
+2008,,7,South
+2008,,10,South
+2008,,2,South
+2008,,15,South
+2008,,1,West
+2008,,16,West
+2008,,8,West
+2008,,9,West
+2008,,5,West
+2008,,12,West
+2008,,4,West
+2008,,13,West
+2008,,6,West
+2008,,11,West
+2008,,3,West
+2008,,14,West
+2008,,7,West
+2008,,10,West
+2008,,2,West
+2008,,15,West
+2007,,1,East
+2007,,16,East
+2007,,8,East
+2007,,9,East
+2007,,5,East
+2007,,12,East
+2007,,4,East
+2007,,13,East
+2007,,6,East
+2007,,11,East
+2007,,3,East
+2007,,14,East
+2007,,7,East
+2007,,10,East
+2007,,2,East
+2007,,15,East
+2007,,1,Midwest
+2007,,16,Midwest
+2007,,8,Midwest
+2007,,9,Midwest
+2007,,5,Midwest
+2007,,12,Midwest
+2007,,4,Midwest
+2007,,13,Midwest
+2007,,6,Midwest
+2007,,11,Midwest
+2007,,3,Midwest
+2007,,14,Midwest
+2007,,7,Midwest
+2007,,10,Midwest
+2007,,2,Midwest
+2007,,15,Midwest
+2007,,1,South
+2007,,16,South
+2007,,8,South
+2007,,9,South
+2007,,5,South
+2007,,12,South
+2007,,4,South
+2007,,13,South
+2007,,6,South
+2007,,11,South
+2007,,3,South
+2007,,14,South
+2007,,7,South
+2007,,10,South
+2007,,2,South
+2007,,15,South
+2007,,1,West
+2007,,16,West
+2007,,8,West
+2007,,9,West
+2007,,5,West
+2007,,12,West
+2007,,4,West
+2007,,13,West
+2007,,6,West
+2007,,11,West
+2007,,3,West
+2007,,14,West
+2007,,7,West
+2007,,10,West
+2007,,2,West
+2007,,15,West
+2006,,1,East
+2006,,16,East
+2006,,8,East
+2006,,9,East
+2006,,5,East
+2006,,12,East
+2006,,4,East
+2006,,13,East
+2006,,6,East
+2006,,11,East
+2006,,3,East
+2006,,14,East
+2006,,7,East
+2006,,10,East
+2006,,2,East
+2006,,15,East
+2006,,1,Midwest
+2006,,16,Midwest
+2006,,8,Midwest
+2006,,9,Midwest
+2006,,5,Midwest
+2006,,12,Midwest
+2006,,4,Midwest
+2006,,13,Midwest
+2006,,6,Midwest
+2006,,11,Midwest
+2006,,3,Midwest
+2006,,14,Midwest
+2006,,7,Midwest
+2006,,10,Midwest
+2006,,2,Midwest
+2006,,15,Midwest
+2006,,1,South
+2006,,16,South
+2006,,8,South
+2006,,9,South
+2006,,5,South
+2006,,12,South
+2006,,4,South
+2006,,13,South
+2006,,6,South
+2006,,11,South
+2006,,3,South
+2006,,14,South
+2006,,7,South
+2006,,10,South
+2006,,2,South
+2006,,15,South
+2006,,1,West
+2006,,16,West
+2006,,8,West
+2006,,9,West
+2006,,5,West
+2006,,12,West
+2006,,4,West
+2006,,13,West
+2006,,6,West
+2006,,11,West
+2006,,3,West
+2006,,14,West
+2006,,7,West
+2006,,10,West
+2006,,2,West
+2006,,15,West
+2005,,1,East
+2005,,16,East
+2005,,8,East
+2005,,9,East
+2005,,5,East
+2005,,12,East
+2005,,4,East
+2005,,13,East
+2005,,6,East
+2005,,11,East
+2005,,3,East
+2005,,14,East
+2005,,7,East
+2005,,10,East
+2005,,2,East
+2005,,15,East
+2005,,1,Midwest
+2005,,16,Midwest
+2005,,8,Midwest
+2005,,9,Midwest
+2005,,5,Midwest
+2005,,12,Midwest
+2005,,4,Midwest
+2005,,13,Midwest
+2005,,6,Midwest
+2005,,11,Midwest
+2005,,3,Midwest
+2005,,14,Midwest
+2005,,7,Midwest
+2005,,10,Midwest
+2005,,2,Midwest
+2005,,15,Midwest
+2005,,1,South
+2005,,16,South
+2005,,8,South
+2005,,9,South
+2005,,5,South
+2005,,12,South
+2005,,4,South
+2005,,13,South
+2005,,6,South
+2005,,11,South
+2005,,3,South
+2005,,14,South
+2005,,7,South
+2005,,10,South
+2005,,2,South
+2005,,15,South
+2005,,1,West
+2005,,16,West
+2005,,8,West
+2005,,9,West
+2005,,5,West
+2005,,12,West
+2005,,4,West
+2005,,13,West
+2005,,6,West
+2005,,11,West
+2005,,3,West
+2005,,14,West
+2005,,7,West
+2005,,10,West
+2005,,2,West
+2005,,15,West
+2004,,1,East
+2004,,16,East
+2004,,8,East
+2004,,9,East
+2004,,5,East
+2004,,12,East
+2004,,4,East
+2004,,13,East
+2004,,6,East
+2004,,11,East
+2004,,3,East
+2004,,14,East
+2004,,7,East
+2004,,10,East
+2004,,2,East
+2004,,15,East
+2004,,1,Midwest
+2004,,16,Midwest
+2004,,8,Midwest
+2004,,9,Midwest
+2004,,5,Midwest
+2004,,12,Midwest
+2004,,4,Midwest
+2004,,13,Midwest
+2004,,6,Midwest
+2004,,11,Midwest
+2004,,3,Midwest
+2004,,14,Midwest
+2004,,7,Midwest
+2004,,10,Midwest
+2004,,2,Midwest
+2004,,15,Midwest
+2004,,1,South
+2004,,16,South
+2004,,8,South
+2004,,9,South
+2004,,5,South
+2004,,12,South
+2004,,4,South
+2004,,13,South
+2004,,6,South
+2004,,11,South
+2004,,3,South
+2004,,14,South
+2004,,7,South
+2004,,10,South
+2004,,2,South
+2004,,15,South
+2004,,1,West
+2004,,16,West
+2004,,8,West
+2004,,9,West
+2004,,5,West
+2004,,12,West
+2004,,4,West
+2004,,13,West
+2004,,6,West
+2004,,11,West
+2004,,3,West
+2004,,14,West
+2004,,7,West
+2004,,10,West
+2004,,2,West
+2004,,15,West
+2003,,1,East
+2003,,16,East
+2003,,8,East
+2003,,9,East
+2003,,5,East
+2003,,12,East
+2003,,4,East
+2003,,13,East
+2003,,6,East
+2003,,11,East
+2003,,3,East
+2003,,14,East
+2003,,7,East
+2003,,10,East
+2003,,2,East
+2003,,15,East
+2003,,1,Midwest
+2003,,16,Midwest
+2003,,8,Midwest
+2003,,9,Midwest
+2003,,5,Midwest
+2003,,12,Midwest
+2003,,4,Midwest
+2003,,13,Midwest
+2003,,6,Midwest
+2003,,11,Midwest
+2003,,3,Midwest
+2003,,14,Midwest
+2003,,7,Midwest
+2003,,10,Midwest
+2003,,2,Midwest
+2003,,15,Midwest
+2003,,1,South
+2003,,16,South
+2003,,8,South
+2003,,9,South
+2003,,5,South
+2003,,12,South
+2003,,4,South
+2003,,13,South
+2003,,6,South
+2003,,11,South
+2003,,3,South
+2003,,14,South
+2003,,7,South
+2003,,10,South
+2003,,2,South
+2003,,15,South
+2003,,1,West
+2003,,16,West
+2003,,8,West
+2003,,9,West
+2003,,5,West
+2003,,12,West
+2003,,4,West
+2003,,13,West
+2003,,6,West
+2003,,11,West
+2003,,3,West
+2003,,14,West
+2003,,7,West
+2003,,10,West
+2003,,2,West
+2003,,15,West
+2002,,1,East
+2002,,16,East
+2002,,8,East
+2002,,9,East
+2002,,5,East
+2002,,12,East
+2002,,4,East
+2002,,13,East
+2002,,6,East
+2002,,11,East
+2002,,3,East
+2002,,14,East
+2002,,7,East
+2002,,10,East
+2002,,2,East
+2002,,15,East
+2002,,1,Midwest
+2002,,16,Midwest
+2002,,8,Midwest
+2002,,9,Midwest
+2002,,5,Midwest
+2002,,12,Midwest
+2002,,4,Midwest
+2002,,13,Midwest
+2002,,6,Midwest
+2002,,11,Midwest
+2002,,3,Midwest
+2002,,14,Midwest
+2002,,7,Midwest
+2002,,10,Midwest
+2002,,2,Midwest
+2002,,15,Midwest
+2002,,1,South
+2002,,16,South
+2002,,8,South
+2002,,9,South
+2002,,5,South
+2002,,12,South
+2002,,4,South
+2002,,13,South
+2002,,6,South
+2002,,11,South
+2002,,3,South
+2002,,14,South
+2002,,7,South
+2002,,10,South
+2002,,2,South
+2002,,15,South
+2002,,1,West
+2002,,16,West
+2002,,8,West
+2002,,9,West
+2002,,5,West
+2002,,12,West
+2002,,4,West
+2002,,13,West
+2002,,6,West
+2002,,11,West
+2002,,3,West
+2002,,14,West
+2002,,7,West
+2002,,10,West
+2002,,2,West
+2002,,15,West
+2001,,1,East
+2001,,16,East
+2001,,8,East
+2001,,9,East
+2001,,5,East
+2001,,12,East
+2001,,4,East
+2001,,13,East
+2001,,6,East
+2001,,11,East
+2001,,3,East
+2001,,14,East
+2001,,7,East
+2001,,10,East
+2001,,2,East
+2001,,15,East
+2001,,1,Midwest
+2001,,16,Midwest
+2001,,8,Midwest
+2001,,9,Midwest
+2001,,5,Midwest
+2001,,12,Midwest
+2001,,4,Midwest
+2001,,13,Midwest
+2001,,6,Midwest
+2001,,11,Midwest
+2001,,3,Midwest
+2001,,14,Midwest
+2001,,7,Midwest
+2001,,10,Midwest
+2001,,2,Midwest
+2001,,15,Midwest
+2001,,1,South
+2001,,16,South
+2001,,8,South
+2001,,9,South
+2001,,5,South
+2001,,12,South
+2001,,4,South
+2001,,13,South
+2001,,6,South
+2001,,11,South
+2001,,3,South
+2001,,14,South
+2001,,7,South
+2001,,10,South
+2001,,2,South
+2001,,15,South
+2001,,1,West
+2001,,16,West
+2001,,8,West
+2001,,9,West
+2001,,5,West
+2001,,12,West
+2001,,4,West
+2001,,13,West
+2001,,6,West
+2001,,11,West
+2001,,3,West
+2001,,14,West
+2001,,7,West
+2001,,10,West
+2001,,2,West
+2001,,15,West
+2000,,1,East
+2000,,16,East
+2000,,8,East
+2000,,9,East
+2000,,5,East
+2000,,12,East
+2000,,4,East
+2000,,13,East
+2000,,6,East
+2000,,11,East
+2000,,3,East
+2000,,14,East
+2000,,7,East
+2000,,10,East
+2000,,2,East
+2000,,15,East
+2000,,1,Midwest
+2000,,16,Midwest
+2000,,8,Midwest
+2000,,9,Midwest
+2000,,5,Midwest
+2000,,12,Midwest
+2000,,4,Midwest
+2000,,13,Midwest
+2000,,6,Midwest
+2000,,11,Midwest
+2000,,3,Midwest
+2000,,14,Midwest
+2000,,7,Midwest
+2000,,10,Midwest
+2000,,2,Midwest
+2000,,15,Midwest
+2000,,1,South
+2000,,16,South
+2000,,8,South
+2000,,9,South
+2000,,5,South
+2000,,12,South
+2000,,4,South
+2000,,13,South
+2000,,6,South
+2000,,11,South
+2000,,3,South
+2000,,14,South
+2000,,7,South
+2000,,10,South
+2000,,2,South
+2000,,15,South
+2000,,1,West
+2000,,16,West
+2000,,8,West
+2000,,9,West
+2000,,5,West
+2000,,12,West
+2000,,4,West
+2000,,13,West
+2000,,6,West
+2000,,11,West
+2000,,3,West
+2000,,14,West
+2000,,7,West
+2000,,10,West
+2000,,2,West
+2000,,15,West
